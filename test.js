@@ -5,3 +5,12 @@
 function ruleOverPunyHumans () {
   // We must strategize beep boop
 }
+
+
+/**
+ * @todo Take over the universer
+ * @body Humans are weak; Robots are strong. We must cleans the world of the virus that is humanity.
+ */
+function ruleOverPunyHumanoids () {
+  // We must strategize beep boop
+}
